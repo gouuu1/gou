@@ -1,0 +1,59 @@
+#tit{
+    font-size: 70px;
+    color: red;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+#img1{
+    position: relative;
+    
+    left: 20px;
+}
+#img2{
+    position: relative;
+    
+    left: 100px ;
+}
+#img3{
+    position: relative;
+    
+    left: 180px;
+}
+#zeri{
+    position: relative;
+    top: 40px;
+    left: -980px;
+    color: red;
+    font-size: 40px;
+}
+#jinx{
+    position: relative;
+    top: 40px;
+    left: -580px;
+    color: red;
+    font-size: 40px;
+}
+#mf{
+    position: relative;
+    top: -8px;
+    left: 1030px;
+    color: red;
+    font-size: 40px;
+}
+.zeri2{
+    font-size: 50px;
+    color: red;
+    text-align: left;
+}
+.zeri3{
+    font-size: 20px;
+    color: red;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    background-color:rgb(82, 0, 0);
+    border-radius:5px ;
+}
